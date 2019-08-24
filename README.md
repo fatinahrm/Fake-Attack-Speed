@@ -7,6 +7,9 @@ Only working in TeraToolbox.<br/><br/>
 Why the code so confusing?<br/>
 The code got encrypted since its still developed so it prevent you from messing up and prevent someone stole it!<br/><br/>
 
+![Image description](https://github.com/fatinahrm/image/blob/master/SP1.PNG)
+![Image description](https://github.com/fatinahrm/image/blob/master/SP2.PNG)
+
 Move index.js into the original index.js of your SP.<br/>
 Delete core.js and coodlowns.js then enjoy!~<br/><br/>
 
