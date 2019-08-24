@@ -2,7 +2,10 @@
 Tera Mod
 Fake attack speed is a modified Skill-Prediction (Free Version) with give you some nice feature.
 Still not tested for all clases and still using opcodes from patch v83 so use it with our own risk.<br/>
-Only working in TeraToolbox.<br/>
+Only working in TeraToolbox.<br/><br/>
+
+Why the code so confusing?<br/>
+The code got envrypt since its still developed so it prevent you from messing up and prevent someone to stole it!<br/><br/>
 
 ![Image description](https://github.com/fatinahrm/image/blob/master/Capture1.PNG)
 <br/>You will see many notification in your console each time using skill, just ignore it.<br/>
