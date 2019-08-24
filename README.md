@@ -5,7 +5,7 @@ Still not tested for all clases and still using opcodes from patch v83 so use it
 Only working in TeraToolbox.<br/><br/>
 
 Why the code so confusing?<br/>
-The code got envrypt since its still developed so it prevent you from messing up and prevent someone to stole it!<br/><br/>
+The code got encrypted since its still developed so it prevent you from messing up and prevent someone to stole it!<br/><br/>
 
 ![Image description](https://github.com/fatinahrm/image/blob/master/Capture1.PNG)
 <br/>You will see many notification in your console each time using skill, just ignore it.<br/>
