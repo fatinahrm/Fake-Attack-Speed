@@ -14,6 +14,6 @@ Delete core.js and coodlowns.js then enjoy!~<br/><br/>
 <br/>You will see many notification in your console each time using skill, just ignore it.<br/>
 
 Command:<br>
-/8 as (value)  | set a value of attack speed modifier<br/>
-/8 a0          | set attack speed back to normal<br/>
-/8 nocd        | on/off no cooldown client side<br/>
+/8 as (value) ---- set a value of attack speed modifier<br/>
+/8 a0 ---- set attack speed back to normal<br/>
+/8 nocd ---- on/off no cooldown client side<br/>
