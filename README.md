@@ -4,7 +4,9 @@ Fake attack speed is a modified Skill-Prediction (Free Version) with give you so
 Still not tested for all clases and still using opcodes from patch v83 so use it with your own risk.
 Only working in TeraToolbox.<br/>
 
-Why the code so confusing?<br/>
+![Image description](https://github.com/fatinahrm/image/blob/master/illustration.png)
+
+<br/>Why the code so confusing?<br/>
 The code got encrypted since its still developed so it prevent you from messing up and prevent someone stole it!<br/><br/>
 
 ![Image description](https://github.com/fatinahrm/image/blob/master/SP1.PNG)
