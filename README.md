@@ -11,8 +11,10 @@ The code got encrypted since its still developed so it prevent you from messing 
 ![Image description](https://github.com/fatinahrm/image/blob/master/SP1.PNG)
 ![Image description](https://github.com/fatinahrm/image/blob/master/SP2.PNG)
 
-Move index.js into the original index.js of your SP.<br/>
-Delete core.js and coodlowns.js then enjoy!~<br/><br/>
+Move index.js into the original index.js of your SP<br/>
+Delete core.js and coodlowns.js<br/>
+Disable auto update mods and self auto update in the setting<br/>
+Enyjoy!~<br/><br/>
 
 ![Image description](https://github.com/fatinahrm/image/blob/master/Capture1.PNG)
 <br/>You will see many notification in your console each time using skill, just ignore it.<br/>
