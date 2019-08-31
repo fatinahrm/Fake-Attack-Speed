@@ -1,6 +1,6 @@
 # Fake-Attack-Speed
 Fake-Attack-Speed mod is a modified Skill-Prediction (Free Version) with give you some nice feature.
-Still not tested for all clases and still using opcodes and def from patch v83 so use it with your own risk.
+Still not tested for all classes and still using opcodes and def from patch v83 so use it with your own risk.
 Only working in TeraToolbox.<br/>
 
 ![Image description](https://github.com/fatinahrm/image/blob/master/illustration.png)
